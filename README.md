@@ -1,2 +1,2 @@
-# NAME:suphaloek Khueanphet
+# NAME:Suphaloek Khueanphet
 # STUDENT ID:660610799
